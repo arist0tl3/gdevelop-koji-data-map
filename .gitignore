@@ -1,0 +1,10 @@
+## Packages
+node_modules
+
+## Incoming Files
+data.js
+
+## Exported Files
+images.json
+sounds.json
+newData.js
